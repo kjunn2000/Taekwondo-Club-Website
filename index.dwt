@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+
+<!-- #BeginEditable "head" -->
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title id="title">taekwondo</title>
+<link href="css/common.css" rel="stylesheet" type="text/css" />
+</head>
+<!-- #EndEditable -->
+<body>
+	<div id="wrapper">
+		<div class="header">
+			<div class="brand">APU Taekwondo Club</div>
+			<div id="nav">
+				<div id="menu-area">
+				<ul id="nav-area">
+					<li><a href="index.html">HOME</a></li>
+					<li><a href="#">ABOUT</a>
+						<ul>
+							<li><a href="about.html">About Us</a></li>
+							<li><a href="news.html">News</a></li>
+							<li><a href="ourteam.html">Our Team</a></li>
+							<li><a href="history.html">History</a></li>
+						</ul>
+					</li>
+					<li><a href="#">OUR LIFE</a>
+						<ul>
+							<li><a href="ourlife.html">Our Life</a></li>
+							<li><a href="achievements.html">Achievements</a></li>
+							<li><a href="gallery.html">Gallery</a></li>
+						</ul>	
+					</li>
+					<li><a href="#">ACTIVITIES</a>
+						<ul>
+							<li><a href="activities.html">Acticities</a></li>
+							<li><a href="practice.html">Practice</a></li>
+							<li><a href="socialevent.html">Social Event</a></li>
+							<li><a href="competitions.html">Competitions</a></li>
+						</ul>
+					</li>
+					<li><a href="#">CONTACT US</a>
+						<ul>
+							<li><a href="contactus.html">Contact Us</a></li>
+							<li><a href="register.html">Register</a></li>
+							<li><a href="faq.html">FAQ</a></li>
+						</ul>
+					</li>
+				</ul>
+				</div>	
+			</div>
+			<a class="burger" href="#" onclick="menu()">
+				<div class="line"></div>
+				<div class="line"></div>
+				<div class="line"></div>
+			</a>
+		</div>
+
+		<div class="main">
+			<!-- #BeginEditable "container" -->
+			<div class="container">
+				<div class="card">
+					<div class="face face1">
+						<div class="content">
+							<img src="img/Taekwondo(2).png" width="150px"/>
+							<h3>HISTORY</h3>
+						</div>
+					</div>
+					<div class="face face2">
+						<div class="content">
+							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </p>
+							<a href="#">Read More</a>
+						</div>
+					</div>
+				</div>
+				<div class="card">
+					<div class="face face1">
+						<div class="content">
+							<img src="img/Taekwondo(3).png" width="150px" alt=""/>
+							<h3>Fighting</h3>
+						</div>
+					</div>
+					<div class="face face2">
+						<div class="content">
+							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </p>
+							<a href="#">Read More</a>
+						</div>
+					</div>
+				</div>
+				<div class="card">
+					<div class="face face1">
+						<div class="content">
+							<img src="img/Taekwondo(4).png" width="150px"/>
+							<h3>Match</h3>
+						</div>
+					</div>
+					<div class="face face2">
+						<div class="content">
+							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </p>
+							<a href="#">Read More</a>
+						</div>
+					</div>			
+				</div>
+			</div>
+		<!-- #EndEditable -->
+		</div>
+		<div class="footer">
+			<div class="footer-top">
+					<div class="container">
+						<div class="row">
+							<div class="segment-one">
+								<h3>About Us</h3>
+								<p>The aim of the club is to teach Taekwondo to every person who wishes to join, enjoy great fun and get fit.Taekwondo will give you the boost you are looking for.</p>
+							</div>
+							<div class="segment-two">
+								<h2>Useful Link</h2>
+								<ul>
+									<li><a href="about.html">About</a></li>
+									<li><a href="gallery.html">Gallery</a></li>
+									<li><a href="activities.htmml">Activities</a></li>
+									<li><a href="contactus.html">Contact Us</a></li>
+								</ul>
+							</div>							
+							<div class="segment-three">
+								<h2>Follow Us</h2>
+								<p>Please Follow us on our Social Media Profile in order to keep updated.Tranning Day: Tuesday &#38; Thursday Time: 6:30pm - 8:30pm Venue: A.P.U. Foyer</p>
+								<div class="icons">
+									<a href="https://www.facebook.com/APUTaekwondoClub/" ><img src="img/Facebook.png" alt=""/></a>
+									<a href="#"><img src="img/Instagram.png"alt=""/></a>
+									<a href="#"><img src="img/Gmail.png" alt=""/></a>
+									<a href="#"><img src="img/Snapchat.png" alt=""/></a>
+
+								</div>
+										
+							</div>
+							<div class="segment-four">
+								<h2>Contact Us</h2>
+								<p>Enter your email at bottom , we will keep in touch with you within two days.</p>
+								<form action="">
+									<input type="email">
+									<input type="submit" value="subscribe">
+								</form>
+							</div>
+						</div>
+					</div>
+			</div>
+			<div class="footer-bottom">
+				&copy; aputaekwondo.com | Designed by JUN
+			</div>
+		</div>
+<!-- #BeginEditable "script" -->
+<script src="js/main.js"></script>
+<!-- #EndEditable -->
+</body>
+
+</html>		
+
